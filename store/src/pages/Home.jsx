@@ -8,20 +8,20 @@ const Home = () => {
   const slides = [
     {
       title: "Travis Scott",
-      subtitle: "Astroworld Collection",
-      image: "https://i.imgur.com/y1v2gM1.jpg",
+      subtitle: "Utopia Collection",
+      image: "https://i.pinimg.com/1200x/6c/3f/40/6c3f4038ae25250a00841cf043549e0e.jpg",
       description: "Explora la colección exclusiva del universo de Travis Scott"
     },
     {
       title: "The Weeknd",
-      subtitle: "After Hours Series",
-      image: "https://i.imgur.com/i9zM1zN.jpg",
+      subtitle: "Hurry Up Tomorrow",
+      image: "https://i.pinimg.com/1200x/17/16/b9/1716b93cd3fd702add59fbccc765be4e.jpg",
       description: "Sumérgete en la estética nocturna de The Weeknd"
     },
     {
       title: "Charlie García",
       subtitle: "Rock Legendario",
-      image: "https://i.imgur.com/83p7U7x.jpg",
+      image: "https://i.pinimg.com/1200x/95/c5/f4/95c5f444dd1ae398dfe9a2ce161327d8.jpg",
       description: "La esencia del rock argentino en cada diseño"
     }
   ];
